@@ -21,8 +21,8 @@ tput bold
 printf "\n\n\n"
 echo " ENTER THE DOMAIN TO RECON"
 read domain
-mkdir /home/sniper/Desktop/domain/$domain
-mypath=/home/sniper/Desktop/domain/$domain
+mkdir [add location]
+mypath=[add location]
 
 printf "\n enumerating subdomains\n\n"
 
